@@ -55,4 +55,4 @@ age = st.slider("Age", 1, 101)
 op = ['yellow', 'red', 'blue', 'black']
 
 color = st.select_slider("Choose Color", options = op) #, label_visibility="visible")
-### Task is to make all these options visible
+## Task is to make all these options visible
